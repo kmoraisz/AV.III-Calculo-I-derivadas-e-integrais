@@ -1,3 +1,6 @@
+
+#Alunos: Jaquim Santos Freire; Kaio Rian de Morais. 
+
 import sympy as sp
 
 def calcular_derivada():
